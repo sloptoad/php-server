@@ -63,10 +63,12 @@ if ($_GET["q"] == "Ping") {
         echo $portions[$i];
     }
     echo "\n";
-    echo "i could not for figure out what this pattern was,";
+    echo "So I couldn't figure out what this pattern was,";
     echo "\n";
-    echo "besides that the equal sign moves one
-     position forward on each letter";
+    echo "besides that the equal sign moves one position forward on each letter,";
+    echo "\n";
+    echo "so i would have tried to code more of the solution but I had no idea what it was. ";
+    echo "\n";
 }
 
 ?>
